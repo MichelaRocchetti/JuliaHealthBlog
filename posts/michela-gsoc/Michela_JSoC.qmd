@@ -26,7 +26,7 @@ As a result, I found the project of [Jacob Zelko (@TheCedarPrince)](https://jaco
 
 # Project Description 
 
-*IPUMS* is the "world's largest available single database of census microdata", providing survey and census data from around the world. 
+[*IPUMS*](https://www.ipums.org) is the "world's largest available single database of census microdata", providing survey and census data from around the world. 
 It includes several projects that provide a wide variety of datasets.
 The information and data collected by *IPUMS* are useful for comparative research, as well as for the analysis of individuals in their life contexts.
 These data can be used to create a more comprehensive dataset that will facilitate research on the social determinants of health for different types of diseases, social communities, and geographical areas. 
